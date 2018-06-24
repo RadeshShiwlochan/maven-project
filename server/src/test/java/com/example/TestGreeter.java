@@ -9,7 +9,7 @@ import static org.junit.Assert.assertThat;
 import static org.junit.matchers.JUnitMatchers.containsString;
 
 public class TestGreeter {
-
+  //this is a test for Jenksins polling
   private Greeter greeter;
 
   @Before
